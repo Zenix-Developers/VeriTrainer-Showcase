@@ -121,7 +121,7 @@ flowchart LR
 
 <div align="center">
 
-**VeriTrainer** · crafted by [Zenix Developers](https://github.com/Zenix-Developers)
+**VeriTrainer** · crafted by [Zenix Developers](https://github.com/Zenix-Developers) · [zenix.sg](https://zenix.sg)
 
 *The source code is private. Interested in a closer look? Get in touch.*
 
