@@ -16,6 +16,8 @@
 ---
 
 > **A showcase repository.** It contains no source code, only a tour of what VeriTrainer is and the experience it creates.
+>
+> 🔑 **VeriTrainer is in private early access.** It brings together proven ideas from published research into one effortless, end-to-end engine, so you do not have to assemble the pieces yourself.
 
 ## The idea
 
